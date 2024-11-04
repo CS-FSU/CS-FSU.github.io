@@ -17,33 +17,34 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->       
     <link rel="shortcut icon" href="images/ico/fsu.ico"> 
-    <script>
-        function downloadCalendarEvent() {
-            var eventDetails = 
-                "BEGIN:VCALENDAR\n" +
-                "VERSION:2.0\n" +
-                "BEGIN:VEVENT\n" +
-                "SUMMARY:Student Seminars at Florida State University\n" +
-                "DTSTART:20240903T140000Z\n" + // 11:30 AM ET on first Tuesday of September 2024
-                "DTEND:20240903T160000Z\n" +   // 12:30 PM ET
-                "RRULE:FREQ=WEEKLY;BYDAY=TU\n" + // Repeats every Tuesday
-                "LOCATION:Room xxx, LOV Building, Tallahassee, FL\n" +
-                "DESCRIPTION:AI & ML Colloquium at Florida State University\n" +
-                "END:VEVENT\n" +
-                "END:VCALENDAR";
+<script>
+    function downloadCalendarEvent() {
+        var eventDetails = 
+            "BEGIN:VCALENDAR\n" +
+            "VERSION:2.0\n" +
+            "BEGIN:VEVENT\n" +
+            "SUMMARY:Student Seminars at Florida State University\n" +
+            "DTSTART:20241113T164500Z\n" + // 11:45 AM ET on first Wednesday available this semester
+            "DTEND:20241113T174500Z\n" +   // 12:45 PM ET
+            "RRULE:FREQ=WEEKLY;BYDAY=WE\n" + // Repeats every Wednesday
+            "LOCATION:LOVE Building, Tallahassee, FL\n" +
+            "DESCRIPTION:Weekly student seminars on research presentations\n" +
+            "END:VEVENT\n" +
+            "END:VCALENDAR";
 
-            var element = document.createElement('a');
-            element.setAttribute('href', 'data:text/calendar;charset=utf-8,' + encodeURIComponent(eventDetails));
-            element.setAttribute('download', 'AIML Colloquium at FSU.ics');
+        var element = document.createElement('a');
+        element.setAttribute('href', 'data:text/calendar;charset=utf-8,' + encodeURIComponent(eventDetails));
+        element.setAttribute('download', 'Student_Seminars_FSU.ics');
 
-            element.style.display = 'none';
-            document.body.appendChild(element);
+        element.style.display = 'none';
+        document.body.appendChild(element);
 
-            element.click();
+        element.click();
 
-            document.body.removeChild(element);
-        }
-    </script>
+        document.body.removeChild(element);
+    }
+</script>
+
 <script type='text/javascript'>
   window.smartlook||(function(d) {
     var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
@@ -90,7 +91,7 @@
             <div class="row">
               <div class="col-sm-12">
                 <h2><b>Student Seminars</b> at Florida State University: <br> AI, ML, and Beyond</h2>
-                <p> <br/> <b>Time</b>: 11:30 AM - 12:30 PM (ET), Every Tuesday <br/> <b>Location</b>: Room xxx, LOV Building, Tallahassee, FL</p>
+                <p> <br/> <b>Time</b>: 11:45 AM - 12:45 PM (ET), Every Wednesday <br/> <b>Location</b>: Room xxx, LOV Building, Tallahassee, FL</p>
                 <div style="display: flex; justify-content: center; gap: 0px;">
                   <a class="btn btn-primary btn-lg" style="width: 200px;" href="#" onclick="downloadCalendarEvent(); return false;">Add To My Calendar</a>
                   <a class="btn btn-primary btn-lg" style="width: 200px;" href="#" onclick="">Join Email Group</a>
