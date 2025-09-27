@@ -15,11 +15,15 @@ author_profile: true
 
 ## Tutorials
 
+1. A Survey on Model Extraction Attacks and Defenses for Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Website\]](https://yushundong.github.io//publications/)<br>
+Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Gong, Yue Zhao, **Yushun Dong** <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2025**).
+
 1. Fairness in Graph Machine Learning: Recent Advances and Future Prospectives [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/files/SIGKDD_2023_tutorial.pdf)[\[Website\]](https://yushundong.github.io/KDD_2023_tutorial.html)<br>
 **Yushun Dong**, Oyku Deniz Kose, Yanning Shen, Jundong Li  <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2023**).
 
-2. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/icdm_tutorial_2022.pdf)[\[Website\]](https://yushundong.github.io/ICDM_2022_tutorial.html)<br>
+1. Fairness in Graph Mining: Metrics, Algorithms, and Applications [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://github.com/yushundong/PyGDebias) [\[Slides\]](https://yushundong.github.io/icdm_tutorial_2022.pdf)[\[Website\]](https://yushundong.github.io/ICDM_2022_tutorial.html)<br>
 **Yushun Dong**, Jing Ma, Chen Chen, Jundong Li <br>
 The IEEE International Conference on Data Mining (**ICDM 2022**).
 
@@ -27,23 +31,110 @@ The IEEE International Conference on Data Mining (**ICDM 2022**).
 
 ## Journal Publications
 
-1. Fairness in Graph Mining: A Survey [\[PDF\]](http://yushundong.github.io/files/fairness_survey.pdf) [\[Code\]](https://github.com/yushundong/Graph-Mining-Fairness-Data) [\[Slides\]](https://yushundong.github.io//publications/)<br>
-**Yushun Dong**, Jing Ma, Song Wang, Chen Chen, Jundong Li <br>
-IEEE Transactions on Knowledge and Data Engineering (TKDE). 
+1. SEESAW: Do Graph Neural Networks Improve Node Representation Learning for All? [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, William Shiao, Yozen Liu, Jundong Li, Neil Shah, Tong Zhao <br>
+Journal of Data-centric Machine Learning Research (**DMLR**) 2025.
+
+1. Federated Graph Learning with Graphless Clients [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Xingbo Fu, Song Wang, **Yushun Dong**, Binchi Zhang, Chen Chen, Jundong Li <br>
+Transactions on Machine Learning Research (TMLR) 2024.
+
 
 2. Learning Hierarchical Task Structures for Few-shot Graph Classification [\[PDF\]](https://dl.acm.org/doi/full/10.1145/3635473) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Song Wang, **Yushun Dong**, Xiao Huang, Chen Chen, Jundong Li <br>
-IEEE Transactions on Knowledge Discovery from Data (TKDD).
+IEEE Transactions on Knowledge Discovery from Data (TKDD) 2024.
+
+3. Fairness in Graph Mining: A Survey [\[PDF\]](http://yushundong.github.io/files/fairness_survey.pdf) [\[Code\]](https://github.com/yushundong/Graph-Mining-Fairness-Data) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Jing Ma, Song Wang, Chen Chen, Jundong Li <br>
+IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023.
 
 4. Federated Graph Machine Learning: A Survey of Concepts, Techniques, and Applications [\[PDF\]](http://yushundong.github.io/files/fedgraph.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Xingbo Fu, Binchi Zhang, **Yushun Dong**, Chen Chen, Jundong Li <br>
-SIGKDD Explorations.
+SIGKDD Explorations 2022.
 
 
+## Preprint
 
+1. ELEGANT: Certified Defense on the Fairness of Graph Neural Networks [\[PDF\]](https://arxiv.org/pdf/2311.02757) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Binchi Zhang, Hanghang Tong, Jundong Li
+
+2. Political-LLM: Large Language Models in Political Science [\[PDF\]](https://arxiv.org/abs/2412.06864) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Lincan Li, Jiaqi Li, Catherine Chen, Fred Gui, Hongjia Yang, Chenxiao Yu, Zhengguang Wang, Jianing Cai, Junlong Aaron Zhou, Bolin Shen, Alex Qian, Weixin Chen, Zhongkai Xue, Lichao Sun, Lifang He, Hanjie Chen, Kaize Ding, Zijian Du, Fangzhou Mu, Jiaxin Pei, Jieyu Zhao, Swabha Swayamdipta, Willie Neiswanger, Hua Wei, Xiyang Hu, Shixiang Zhu, Tianlong Chen, Yingzhou Lu, Yang Shi, Lianhui Qin, Tianfan Fu, Zhengzhong Tu, Yuzhe Yang, Jaemin Yoo, Jiaheng Zhang, Ryan Rossi, Liang Zhan, Liang Zhao, Emilio Ferrara, Yan Liu, Furong Huang, Xiangliang Zhang, Lawrence Rothenberg, Shuiwang Ji, Philip S Yu, Yue Zhao, **Yushun Dong**
+
+3. A Survey of Model Extraction Attacks and Defenses in Distributed Computing Environments [\[PDF\]](https://www.arxiv.org/abs/2502.16065) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Zhenqiang Gong, Yue Zhao, **Yushun Dong**
 
 
 ## Conference Publications
+
+
+### 2025
+
+1. Navigating Between Explainability and Extractability in Machine Learning as a Service [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Ojas Nimase, Yue Zhao, **Yushun Dong**<br>
+The IEEE International Conference on Data Mining, Bluesky Track (**ICDM 2025**).
+
+
+1. Hierarchical Demonstration Order Optimization for Many-shot In-Context Learning [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Yinhan He, Wendy Zheng, Song Wang, Zaiyi Zheng, **Yushun Dong**, Yaochen Zhu, Jundong Li <br>
+Annual Conference on Neural Information Processing Systems (**NeurIPS 2025**).
+
+
+1. Learning from Diverse Reasoning Paths with Routing and Collaboration [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhenyu Lei, Zhen Tan, Song Wang, Yaochen Zhu, Zihan Chen, **Yushun Dong**, Jundong Li <br>
+Conference on Empirical Methods in Natural Language Processing (**EMNLP 2025**).
+
+1. Harnessing Large Language Models for Disaster Management: A Survey [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhenyu Lei, **Yushun Dong**, Weiyu Li, Rong Ding, Qi Wang, Jundong Li <br>
+Annual Meeting of the Association for Computational Linguistics Findings (**ACL 2025**).
+
+1. Fairness-Aware Graph Learning: A Benchmark [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Song Wang, Zhenyu Lei, Zaiyi Zheng, Jing Ma, Chen Chen, Jundong Li <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2025**).
+
+1. ATOM: A Framework of Detecting Query-Based Model Extraction Attacks for Graph Neural Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhan Cheng, Bolin Shen, Tianming Sha, Yuan Gao, Shibo Li, **Yushun Dong** <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2025**).
+
+1. Model Extraction Attacks and Defenses for Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Kaixiang Zhao, Lincan Li, Kaize Ding, Neil Gong, Yue Zhao, **Yushun Dong** <br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD 2025**).
+
+1. CEGA: A Cost-Effective Approach for Graph-Based Model Extraction Attacks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zebin Wang, Menghan Lin, Bolin Shen, Ken Anderson, Molei Liu, Tianxi Cai, **Yushun Dong** <br>
+International Conference on Machine Learning (**ICML 2025**).
+
+1. Towards Global-level Mechanistic Interpretability: A Perspective of Modular Circuits of Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Yinhan He, Wendy Zheng, **Yushun Dong**, Yaochen Zhu, Chen Chen, Jundong Li <br>
+International Conference on Machine Learning (**ICML 2025**).
+
+1. Graph Neural Networks Are More Than Filters: Revisiting and Benchmarking from A Spectral Perspective [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+**Yushun Dong**, Yinhan He, Patrick Soga, Song Wang, Jundong Li <br>
+International Conference on Learning Representations (**ICLR 2025**).
+
+1. CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Song Wang, Peng Wang, Tong Zhou, **Yushun Dong**, Zhen Tan, Jundong Li <br>
+International Conference on Learning Representations (**ICLR 2025**).
+
+1. PyOD 2: A Python Library for Outlier Detection with LLM-powered Model Selection [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Sihan Chen, Zhuangzhuang Qian, Wingchun Siu, Xingcan Hu, Jiaqi Li, Shawn Li, Yuehan Qin, Tiankai Yang, Zhuo Xiao, Wanghao Ye, Yichi Zhang, **Yushun Dong**, Yue Zhao <br>
+International Conference on World Wide Web (**WWW 2025**). 
+
+
+1. ST-FiT: Inductive Spatial-Temporal Forecasting with Limited Training Data [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zhenyu Lei, **Yushun Dong**, Jundong Li, Chen Chen <br>
+AAAI Conference on Artificial Intelligence (**AAAI 2025**).
+
+1. BrainMAP: Learning Multiple Activation Pathways in Brain Networks [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Song Wang, Zhenyu Lei, Zhen Tan, Jiaqi Ding, Xinyu Zhao, **Yushun Dong**, Guorong Wu, Tianlong Chen, Chen Chen, Aiying Zhang, Jundong Li <br>
+AAAI Conference on Artificial Intelligence (**AAAI 2025**). 
+
+1. TyphoFormer: Language-Augmented Transformer for Accurate Typhoon Track Forecasting (Short Paper) [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Lincan Li, Eren Erman Ozguven, Yue Zhao, Guang Wang, Yiqun Xie, **Yushun Dong** <br>
+International Conference on Advances in Geographic Information Systems (**SIGSPATIAL 2025**).
+
+
+
 
 ### 2024
 
@@ -74,6 +165,24 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**).
 7. Rethinking Fair Graph Neural Networks from Re-balancing [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Zhixun Li, **Yushun Dong**, Qiang Liu, Jeffrey Xu Yu <br>
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024**).
+
+8. Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective on Molecule Graphs [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Yinhan He, Zaiyi Zheng, Patrick Soga, Yaochen Zhu, **Yushun Dong**, Jundong Li <br>
+Empirical Methods in Natural Language Processing (**EMNLP 2024**).
+
+9. On Demonstration Selection for Improving Fairness in Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Song Wang, Peng Wang, **Yushun Dong**, Tong Zhou, Lu Cheng, Yangfeng Ji, Jundong Li <br>
+Annual Conference on Neural Information Processing Systems, SoLaR Workshop (**NeurIPS 2024**).
+
+10. CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Song Wang, Peng Wang, Tong Zhou, **Yushun Dong**, Zhen Tan, Jundong Li <br>
+Annual Conference on Neural Information Processing Systems, SoLaR Workshop (**NeurIPS 2024**).
+
+11. KG-CF: Knowledge Graph Completion with Context Filtering under the Guidance of Large Language Models [\[PDF\]](https://yushundong.github.io//publications/) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
+Zaiyi Zheng, **Yushun Dong**, Song Wang, Haochen Liu, Qi Wang, Jundong Li <br>
+IEEE International Conference on Big Data (**BigData 2024**).
+
+
 
 
 
@@ -139,7 +248,8 @@ Special Interest Group on Information Retrieval (**SIGIR 2022**).
 
 7. EDITS: Modeling and Mitigating Data Bias for Graph Neural Networks [\[PDF\]](http://yushundong.github.io/files/WWW2022_EDITS.pdf) [\[Code\]](https://github.com/yushundong/EDITS) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Ninghao Liu, Brian Jalaian, Jundong Li <br>
-International Conference on World Wide Web (**WWW 2022**). 
+International Conference on World Wide Web (**WWW 2022**).   <br>
+<span style="color:red">**The 7-th Most Influential Paper in [WWW’22](https://resources.paperdigest.org/2023/09/most-influential-www-papers-2023-09/)**</span>
 
 8. Assessing the Causal Impact of COVID-19 Related Policies on Outbreak Dynamics: A Case Study in the US [\[PDF\]](http://yushundong.github.io/files/WWW2022_causal.pdf) [\[Code\]](https://github.com/QIDSOD/COVID-19-Policy-Causal) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 Jing Ma, **Yushun Dong**, Zheng Huang, Daniel Mietchen, Jundong Li <br>
@@ -157,8 +267,9 @@ International Conference on Information and Knowledge Management (**CIKM 2021**)
 
 2. Individual Fairness for Graph Neural Networks: A Ranking based Approach [\[PDF\]](http://yushundong.github.io/files/kdd2021.pdf) [\[Code\]](https://github.com/yushundong/REDRESS) [\[Slides\]](http://yushundong.github.io/files/slides_kdd2021.pdf)<br>
 **Yushun Dong**, Jian Kang, Hanghang Tong, Jundong Li <br>
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**). 
-
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2021**).  <br>
+<span style="color:red">**Best Poster Award in SDM Doctoral Forum’22**</span>
+  
 ### Earlier
 1. Forecasting Pavement Performance with a Feature Fusion LSTM-BPNN Model [\[PDF\]](http://yushundong.github.io/files/cikm2019.pdf) [\[Code\]](https://yushundong.github.io//publications/) [\[Slides\]](https://yushundong.github.io//publications/)<br>
 **Yushun Dong**, Yingxia Shao, Xiaotong Li, Sili Li, Lei Quan, Wei Zhang, Junping Du <br>

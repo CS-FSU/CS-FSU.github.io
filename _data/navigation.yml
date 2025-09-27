@@ -3,16 +3,24 @@ main:
 
   - title: "Publications"
     url: /publications/  
-    
-  - title: "Lab & Students"
-    url: /students/   
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
 
-  - title: "Prospective Students"
-    url: "/prospectivestudent/"
+  - title: "Grants & Awards"
+    url: /grants/
     
+  - title: "RAI Lab"
+    url: /students/   
+
+  - title: "Open Projects"
+    url: /projects/
+
+  - title: "RA Support"
+    url: "/rasupport/"
+    
+  - title: "Recruiting"
+    url: "/prospectivestudent/"
+
+
+
